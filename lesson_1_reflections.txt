@@ -1,0 +1,33 @@
+pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+
+1st Reflect:
+  The diff (FC) showed me where things were different between the two files.
+I could then go and see where things had changed and it was easier to see where the mistake was made.
+
+2nd Reflections
+  Having all version helps by
+1) Allowing to see where mistakes were made
+2) Keeping stuff that worked and can be reclaimed
+3) Allowing to see how programming style changes with time
+
+Manual Commit
+Pro 1) Makes sense to you
+2) Can be as small or big as you want
+3) Allows for other to follow
+Con 1) May make commits when too small/big
+2) Your logic not others logic
+
+Muti File Commit
+If one is working on a project, multi file would be nice if several have changed.
+Obviously the down side is all saved even if there was no changes.
+Problem with single file save is coordinating saves for the same thing.
+
+git log will tell you what versions of the file you have and any notes attached
+git diff will tell you the difference between two versions.
+
+Knowing you can go back to a good version allows you to make mistakes then correct them. This removes the fear of totally destroying the project.
+
+
+
+
