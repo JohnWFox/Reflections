@@ -1,0 +1,10 @@
+When init a repository the following happened.
+1) .git forlder created.
+2) all files in foder put in repository
+3) Showed I was on branch mster
+4) There were no commits
+5) Showed untracked files (from 2)
+
+Staging area is a place to put stuff to be commited.
+Allowes you to commit stuff and work on others without much hassle
+
