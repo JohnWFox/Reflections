@@ -36,3 +36,18 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Try out small and big changes and see if they work (or not)
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+    1) Pull would be logical
+    2) Pulling would not happen in the middle of something
+    3) Pulling would not involve useless queries
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Fork  w/in GitHub to make a clone
+    Clone w/in a local repository or from GitHub to a local repository
+    Branch local repository change only
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    All of the latest changes would be present
+    IF you make a change it will not require(maybe) as much deconflicting
+ 
