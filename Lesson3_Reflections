@@ -51,3 +51,6 @@ What is the benefit of having a copy of the last known state of the remote store
     All of the latest changes would be present
     IF you make a change it will not require(maybe) as much deconflicting
  
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    It would probably be much harder unless using another config software
+
